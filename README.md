@@ -1,5 +1,6 @@
 # job_analyze
 北理 社会实践 就业调查
+
 数据处理：采用python的requests和beautifulsoup库
 
 只选取评论本体，不涉及引用和表情
