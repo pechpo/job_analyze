@@ -1,4 +1,7 @@
 # job_analyze
+
+![](https://github.com/pechpo/job_analyze/blob/main/make_wordcloud/image.png)
+
 北理 社会实践 就业调查
 
 数据处理：采用python的requests和beautifulsoup库
